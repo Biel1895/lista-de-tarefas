@@ -2,19 +2,19 @@
 
 Este repositório contém uma aplicação web simples para gerenciar uma lista de tarefas. A aplicação permite aos usuários adicionar novas tarefas, marcá-las como concluídas e excluí-las quando necessário.
 
-![Screenshot 1](./assets/img/screencapture-login.png)
+![Screenshot 1](./assets/screencapture-lista-de-tarefas-biel1895-vercel-app-2023-11-04-00_08_20.png)
 
 ## Tecnologias Utilizadas
 
 A aplicação foi desenvolvida utilizando as seguintes tecnologias:
 
-- **HTML5:** Utilizado para estruturar a interface da aplicação.
-- **CSS3:** Utilizado para estilizar os elementos da página, proporcionando uma experiência de usuário agradável e responsiva.
-- **JavaScript:** Utilizado para adicionar interatividade à aplicação, permitindo a manipulação do DOM para adicionar, marcar e excluir tarefas dinamicamente.
+-  **HTML5:** Utilizado para estruturar a interface da aplicação.
+-  **CSS3:** Utilizado para estilizar os elementos da página, proporcionando uma experiência de usuário agradável e responsiva.
+-  **JavaScript:** Utilizado para adicionar interatividade à aplicação, permitindo a manipulação do DOM para adicionar, marcar e excluir tarefas dinamicamente.
 
-## Desafio
+## Desafios Enfrentados
 
-O principal desafio ao criar esta aplicação foi:
+Os principais desafios ao criar esta aplicação foram:
 
 1. **Manipulação Dinâmica do DOM:** Implementar a lógica para adicionar novas tarefas, marcar tarefas como concluídas e excluí-las, tudo isso de forma dinâmica, sem a necessidade de recarregar a página.
 
@@ -26,7 +26,7 @@ O principal desafio ao criar esta aplicação foi:
 
 ## Como Visualizar o Site
 
-Você pode acessar meu site pessoal [clicando aqui](https://aluraplus-combo.vercel.app/).
+Você pode acessar meu site pessoal [clicando aqui](https://lista-de-tarefas-biel1895.vercel.app/).
 
 ## Como Contribuir
 
