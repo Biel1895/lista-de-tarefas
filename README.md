@@ -2,6 +2,8 @@
 
 Este repositório contém uma aplicação web simples para gerenciar uma lista de tarefas. A aplicação permite aos usuários adicionar novas tarefas, marcá-las como concluídas e excluí-las quando necessário.
 
+![Screenshot 1](./assets/img/screencapture-login.png)
+
 ## Tecnologias Utilizadas
 
 A aplicação foi desenvolvida utilizando as seguintes tecnologias:
